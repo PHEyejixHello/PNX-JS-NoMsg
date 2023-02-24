@@ -1,0 +1,7 @@
+name: NoMsg
+main: main.js 
+version: "1.0.2"
+api: ["1.0.13"] 
+load: POSTWORLD
+author: PHEyeji
+description: NoMsg
